@@ -1,5 +1,5 @@
 # Chatbot Application
-
+![DEMO](https://i.imgur.com/F4wkVq1.gif)
 This project is a simple chatbot application built with Python, PyQt6, and OpenAI's GPT-3.5-turbo model.
 
 ## Features
